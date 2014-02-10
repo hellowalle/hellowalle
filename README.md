@@ -22,8 +22,14 @@ hellowalle
 
  
 掌握技能
+
 ubuntu, centos, git, php, c# , Java, nodejs, mysql, mongodb
 
+
+
+最近的项目
+
+http://www.rosebeauty.com.cn
  
 
 
