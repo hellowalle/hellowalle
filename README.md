@@ -29,7 +29,7 @@ hellowalle
  
 ### 掌握技能
 
-ubuntu, centos, git, php, c# , Java, nodejs, mysql, mongodb
+ubuntu, centos, git, php, c# , objective-c, Java, nodejs, mysql, mongodb
 
 
 
